@@ -1,0 +1,19 @@
+{
+  "name": "productivity-tools",
+  "version": "0.2.0",
+  "description": "A set of personal productivity utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cédric Hartland <cedric.hartland@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigacool/productivity-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gigacool/productivity-tools/issues"
+  },
+  "homepage": "https://github.com/gigacool/productivity-tools#readme"
+}
